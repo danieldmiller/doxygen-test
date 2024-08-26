@@ -335,6 +335,8 @@ EXTENSION_MAPPING=txt=md
 
 MARKDOWN_SUPPORT       = YES
 
+# From pr1
+
 # When the TOC_INCLUDE_HEADINGS tag is set to a non-zero value, all headings up
 # to that level are automatically included in the table of contents, even if
 # they do not have an id attribute.
